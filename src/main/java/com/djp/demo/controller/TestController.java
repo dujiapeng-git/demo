@@ -9,6 +9,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * 这是一个测试Controller
+ * */
 @Controller
 public class TestController {
     private Logger log = LoggerFactory.getLogger(TestController.class);
